@@ -6,7 +6,7 @@ docs = loader.load()
 print(f"Loaded {len(docs)} pages")
 print(docs[0].page_content[:500])  # print the first 500 characters of page 1
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 splitter = RecursiveCharacterTextSplitter(
     chunk_size=1000,
