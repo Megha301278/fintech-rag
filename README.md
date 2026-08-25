@@ -108,4 +108,4 @@ Visit the Streamlit URL it opens (usually `http://localhost:8501`).
 
 ## Author
 
-**Megha Dalsania** — [LinkedIn](#) · [GitHub](#)
+**Megha Dalsania** — [LinkedIn](www.linkedin.com/in/megha-dalsania-b04b90267) · [GitHub](https://github.com/Megha301278)
